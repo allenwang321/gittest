@@ -1,4 +1,4 @@
-# gittest
-git尝试使用
+## github一个测试项目
 
-# 尝试在docker运行
+1. 了解Git使用
+2. 尝试使用docker运行java springboot项目
