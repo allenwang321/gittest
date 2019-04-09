@@ -10,7 +10,7 @@ public class IndexController {
     @GetMapping(value = {"/", "index.html"})
     @ResponseBody
     public String index(){
-        return "ok";
+        return "ok ahhh";
     }
 
 }
