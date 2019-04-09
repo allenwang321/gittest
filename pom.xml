@@ -13,6 +13,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>git-test</name>
     <description>git和docker的一个测试项目</description>
+
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
