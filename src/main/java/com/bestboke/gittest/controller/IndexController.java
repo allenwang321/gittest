@@ -10,7 +10,7 @@ public class IndexController {
     @GetMapping(value = {"/", "index.html"})
     @ResponseBody
     public String index(){
-        return "ok jenkins自动部署";
+        return "ok jenkins自动部署123";
     }
 
 }
