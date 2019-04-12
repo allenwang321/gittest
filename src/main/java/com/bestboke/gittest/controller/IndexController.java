@@ -16,6 +16,7 @@ public class IndexController {
         return "测试自动部署 啊哈哈哈或";
     }
 
+
     @PostMapping("json")
     @ResponseBody
     public String jsonTest(@RequestBody JSONObject jsonObject){
